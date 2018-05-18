@@ -2,8 +2,8 @@
 
 SENDGRID_API_KEY="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"
 EMAIL_TO="rene@amarello.com.mx"
-FROM_EMAIL="yakin@amarello.com.mx"
-FROM_NAME="Yakin Garcia Becerril"
+FROM_EMAIL="example@amarello.com.mx"
+FROM_NAME="Example"
 SUBJECT="Sendrid example"
 
 bodyHTML="<p>First sendgrid</p>"
